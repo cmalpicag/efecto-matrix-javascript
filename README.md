@@ -1,5 +1,5 @@
-# Efecto Matrix en JavaScript
+# Efecto Matrix en Javascript
 
-Basado en el artículo de Ganesh Prasad, [Making 'The Matrix' Effect in Javascript](https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din)
+Cómo crear el efecto [**Matrix**](https://g.co/kgs/y1bL8y) con vanilla Javascript.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/efecto-matrix-javascript)
+Basado en el artículo de Ganesh Prasad, [Making 'The Matrix' Effect in Javascript](https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din) pero con mejoras al redimensionar el navegador.
