@@ -1,3 +1,5 @@
-# web-platform-3f1z1x
+# Efecto Matrix en JavaScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-3f1z1x)
+Basado en el artículo de Ganesh Prasad, [Making 'The Matrix' Effect in Javascript](https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din)
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/efecto-matrix-javascript)
